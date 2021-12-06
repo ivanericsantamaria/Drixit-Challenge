@@ -28,3 +28,5 @@ Cuales serían los test cases que harías para una pantalla de login?
 
 https://docs.google.com/spreadsheets/d/1J2qN65OlCwBCdeeu9zS911jiCu7MvZlUdy1HsPaUIgU/edit?usp=sharing
 
+![log-in-improvement](https://user-images.githubusercontent.com/51937721/144801128-ba4ff7ba-b427-4c7b-ab79-8490a2be8057.png)
+
